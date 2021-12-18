@@ -48,9 +48,9 @@ publishing {
     publications {
         maven(MavenPublication) {
 
-            groupId = 'org.gradle.khamd0786'
-            artifactId = 'hk-file-picker'
-            version = '1.0'
+            groupId = 'com.github.Khamd0786'
+            artifactId = 'filepicker'
+            version = '1.0.0'
         }
     }
 }
