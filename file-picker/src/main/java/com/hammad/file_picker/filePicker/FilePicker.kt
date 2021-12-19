@@ -13,7 +13,7 @@ import androidx.core.app.ActivityOptionsCompat
  * @see FilePicker.Builder
  * @author Hammad Khan
  */
-class FilePicker private constructor(
+public class FilePicker private constructor(
     private val componentActivity: ComponentActivity,
     private val fileConfig: Config
 ) {
